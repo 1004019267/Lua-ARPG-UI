@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1597153171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b51da89e33f6b3c7912721fd53228e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfb3f461c115f9166c3c3af6c6e9e6c9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c43867344483c84eac4bcc4640e71bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/FX/bullet_ice_ult.prefab
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2482593946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 990b2dc9fe1ed0406a6462b90b1b7944
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icon/INV_Shoulder_06.png
+Dependencies: []

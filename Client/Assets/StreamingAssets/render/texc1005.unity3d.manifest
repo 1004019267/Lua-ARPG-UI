@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2489672339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fa204351e090619f285dc41c2a5137c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8aa1759d8284954e51f745583c01c2ce
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Render/TexC1005.renderTexture
+Dependencies: []

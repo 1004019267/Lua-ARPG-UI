@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 760133374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44548c9aad3e0906a0bc6fa87c010877
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d35f8d1a55cfb28942e7509014437f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/FX/aoe_ground.prefab
+Dependencies: []

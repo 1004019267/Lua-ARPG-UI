@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 893669926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76b67e64d2db4342edfc86ab0e7db2b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icon/INV_Belt_07.png
+Dependencies: []

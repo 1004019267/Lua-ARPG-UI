@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ca2977f3-6f06-499e-a5e4-568d0be13fd5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Handler/AccountHandler.lua" afterPath="$PROJECT_DIR$/Handler/AccountHandler.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Global/Game.lua" afterPath="$PROJECT_DIR$/Global/Game.lua" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="BagWnd.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/BagWnd.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4018">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MallWnd.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/MallWnd.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1552">
+              <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCfg.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config/ItemCfg.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountHandler.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Handler/AccountHandler.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWnd.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/MainWnd.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerCache.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Global/PlayerCache.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleWnd.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/View/RoleWnd.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageBox.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/MessageBox.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleWnd.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/BattleWnd.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MallHandler.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Handler/MallHandler.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>encode</find>
+      <find>regis</find>
+      <find>ByteBuffer</find>
+      <find>CreatePanel</find>
+      <find>//</find>
+      <find>MsgWnd</find>
+      <find>UpdateBeat</find>
+      <find>message_type</find>
+      <find>CharacterDTO</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>---</replace>
+      <replace>MsgBox</replace>
+      <replace>MessageBox</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Common/ParseXml.lua" />
+        <option value="$PROJECT_DIR$/Common/xmlSimple.lua" />
+        <option value="$PROJECT_DIR$/Common/XmlParser.lua" />
+        <option value="$PROJECT_DIR$/Config/BattleSceneCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/MaillCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/MapBattlegroundCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/MapDungeonCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/MapSceneCfg.lua" />
+        <option value="$PROJECT_DIR$/Logic/ConfigManager.lua" />
+        <option value="$PROJECT_DIR$/Logic/Main.lua" />
+        <option value="$PROJECT_DIR$/Logic/Game.lua" />
+        <option value="$PROJECT_DIR$/Global/LuaDebugjit.lua" />
+        <option value="$PROJECT_DIR$/Scene/MainScene.lua" />
+        <option value="$PROJECT_DIR$/pblua/bag_pb.lua" />
+        <option value="$PROJECT_DIR$/pblua/common_pb.lua" />
+        <option value="$PROJECT_DIR$/Config/BattleGroundCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/BattleArenaCfg.lua" />
+        <option value="$PROJECT_DIR$/pblua/account_pb.lua" />
+        <option value="$PROJECT_DIR$/pblua/selectdungeon_pb.lua" />
+        <option value="$PROJECT_DIR$/View/BattleWnd.lua" />
+        <option value="$PROJECT_DIR$/Global/Main.lua" />
+        <option value="$PROJECT_DIR$/Common/define.lua" />
+        <option value="$PROJECT_DIR$/Config/BattleDungeonCfg.lua" />
+        <option value="$PROJECT_DIR$/Scene/Login.lua" />
+        <option value="$PROJECT_DIR$/Global/DataCache.lua" />
+        <option value="$PROJECT_DIR$/View/SelectDungeonWnd.lua" />
+        <option value="$PROJECT_DIR$/View/LoadingWnd.lua" />
+        <option value="$PROJECT_DIR$/Handler/DungeonHandler.lua" />
+        <option value="$PROJECT_DIR$/pblua/mall_pb.lua" />
+        <option value="$PROJECT_DIR$/Common/msgid.lua" />
+        <option value="$PROJECT_DIR$/View/LoginWnd.lua" />
+        <option value="$PROJECT_DIR$/Config/DungeonCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/ItemCfg.lua" />
+        <option value="$PROJECT_DIR$/View/RoleWindow.lua" />
+        <option value="$PROJECT_DIR$/Global/WindowManager.lua" />
+        <option value="$PROJECT_DIR$/View/MessageBox.lua" />
+        <option value="$PROJECT_DIR$/Config/MsgTipsCfg.lua" />
+        <option value="$PROJECT_DIR$/Global/ConfigManager.lua" />
+        <option value="$PROJECT_DIR$/Config/MallCfg.lua" />
+        <option value="$PROJECT_DIR$/Config/RoleCfg.lua" />
+        <option value="$PROJECT_DIR$/Handler/BagHandler.lua" />
+        <option value="$PROJECT_DIR$/Global/Game.lua" />
+        <option value="$PROJECT_DIR$/Global/PlayerCache.lua" />
+        <option value="$PROJECT_DIR$/Handler/MallHandler.lua" />
+        <option value="$PROJECT_DIR$/Handler/RoleHandler.lua" />
+        <option value="$PROJECT_DIR$/Scene/Battle.lua" />
+        <option value="$PROJECT_DIR$/View/RoleWnd.lua" />
+        <option value="$PROJECT_DIR$/View/BagWnd.lua" />
+        <option value="$PROJECT_DIR$/Handler/AccountHandler.lua" />
+        <option value="$PROJECT_DIR$/View/MainWnd.lua" />
+        <option value="$PROJECT_DIR$/View/MallWnd.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="652" />
+    <option name="y" value="14" />
+    <option name="width" value="1211" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="Global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="Handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Project/Project_LuaArpg/Client/Assets/Lua/Global/Game.lua&#10;ga&#9;FILE&#9;file://E:/Project/Project_LuaArpg/Client/Assets/Lua/Global/Game.lua" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Project_LuaArpg\Client\Assets\Lua\Test" />
+      <recent name="E:\Project\project_bloodsword4\Client\Assets\Lua\Logic" />
+      <recent name="E:\Project\project_bloodsword4\Client\Assets\Lua\Common" />
+      <recent name="E:\Project\project_bloodsword4\Client\Assets\Lua" />
+      <recent name="E:\Project\project_bloodsword4\Client\Assets\Lua\3rd\event" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Lua Application.Lua">
+    <configuration name="Lua" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="xmlTest.lua" />
+      <option name="workingDir" value="E:\Tech\Lua_LuaFramework\CodeUpdate\Client\Assets\Lua" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca2977f3-6f06-499e-a5e4-568d0be13fd5" name="Default" comment="" />
+      <created>1513232692807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513232692807</updated>
+      <workItem from="1513232694228" duration="7432000" />
+      <workItem from="1513248983945" duration="491000" />
+      <workItem from="1513300252816" duration="4499000" />
+      <workItem from="1513311910967" duration="499000" />
+      <workItem from="1513314848258" duration="446000" />
+      <workItem from="1513319020164" duration="862000" />
+      <workItem from="1513325721939" duration="5012000" />
+      <workItem from="1513334375811" duration="143000" />
+      <workItem from="1513395063843" duration="124000" />
+      <workItem from="1513395526127" duration="596000" />
+      <workItem from="1513397140502" duration="599000" />
+      <workItem from="1513399111937" duration="8000" />
+      <workItem from="1513400382673" duration="622000" />
+      <workItem from="1513401808759" duration="112000" />
+      <workItem from="1513402253101" duration="132000" />
+      <workItem from="1513407645836" duration="632000" />
+      <workItem from="1513499241377" duration="900000" />
+      <workItem from="1513503628551" duration="9428000" />
+      <workItem from="1513563635126" duration="3461000" />
+      <workItem from="1513574225670" duration="1680000" />
+      <workItem from="1513577125430" duration="603000" />
+      <workItem from="1513579591803" duration="131000" />
+      <workItem from="1513581184150" duration="3117000" />
+      <workItem from="1513645256835" duration="2958000" />
+      <workItem from="1513648710507" duration="6284000" />
+      <workItem from="1513657424207" duration="687000" />
+      <workItem from="1513666664737" duration="989000" />
+      <workItem from="1513675328221" duration="1113000" />
+      <workItem from="1513688944929" duration="3384000" />
+      <workItem from="1513731477421" duration="1527000" />
+      <workItem from="1513734284724" duration="3670000" />
+      <workItem from="1513740549225" duration="2543000" />
+      <workItem from="1513751024561" duration="1529000" />
+      <workItem from="1513752601054" duration="4156000" />
+      <workItem from="1513759104354" duration="5008000" />
+      <workItem from="1513826339676" duration="4217000" />
+      <workItem from="1513907776085" duration="7890000" />
+      <workItem from="1513924634284" duration="8712000" />
+      <workItem from="1514163579022" duration="13492000" />
+      <workItem from="1514182787312" duration="625000" />
+      <workItem from="1514183760801" duration="972000" />
+      <workItem from="1514184938555" duration="4689000" />
+      <workItem from="1514191395221" duration="2602000" />
+      <workItem from="1514252527718" duration="78000" />
+      <workItem from="1514277744943" duration="1651000" />
+      <workItem from="1514344194719" duration="2726000" />
+      <workItem from="1514451786805" duration="178000" />
+      <workItem from="1514510159354" duration="1204000" />
+      <workItem from="1514864250958" duration="599000" />
+      <workItem from="1514870650499" duration="71000" />
+      <workItem from="1514880267941" duration="2000" />
+      <workItem from="1515372520194" duration="163000" />
+      <workItem from="1515384759331" duration="89000" />
+      <workItem from="1515719956603" duration="622000" />
+      <workItem from="1515809415297" duration="1013000" />
+      <workItem from="1516085868149" duration="4000" />
+      <workItem from="1516150758191" duration="599000" />
+      <workItem from="1516344782317" duration="120000" />
+      <workItem from="1519789493889" duration="249000" />
+      <workItem from="1519791073568" duration="916000" />
+      <workItem from="1520328500334" duration="756000" />
+      <workItem from="1520384812949" duration="1213000" />
+      <workItem from="1520407487899" duration="2484000" />
+      <workItem from="1520410374596" duration="119000" />
+      <workItem from="1520410522936" duration="1583000" />
+      <workItem from="1520561827656" duration="9000" />
+      <workItem from="1520578303289" duration="2200000" />
+      <workItem from="1520818696386" duration="5519000" />
+      <workItem from="1520836065974" duration="5236000" />
+      <workItem from="1520903463724" duration="4048000" />
+      <workItem from="1520909633917" duration="3163000" />
+      <workItem from="1520922717456" duration="6608000" />
+      <workItem from="1520993801075" duration="2113000" />
+      <workItem from="1521001086844" duration="629000" />
+      <workItem from="1521009114275" duration="4063000" />
+      <workItem from="1521075782810" duration="4294000" />
+      <workItem from="1521094971992" duration="4136000" />
+      <workItem from="1521168442276" duration="2981000" />
+      <workItem from="1521446294434" duration="3492000" />
+      <workItem from="1521512109946" duration="4900000" />
+      <workItem from="1521681828413" duration="5037000" />
+      <workItem from="1521775035552" duration="15000" />
+      <workItem from="1521786113377" duration="5530000" />
+      <workItem from="1521795213085" duration="3000" />
+      <workItem from="1521799449453" duration="607000" />
+      <workItem from="1522025982875" duration="5418000" />
+      <workItem from="1522046432981" duration="8302000" />
+      <workItem from="1522114449916" duration="5293000" />
+      <workItem from="1522387417893" duration="1097000" />
+      <workItem from="1522388581173" duration="700000" />
+      <workItem from="1522640780288" duration="224000" />
+      <workItem from="1522641104232" duration="1165000" />
+      <workItem from="1522654451464" duration="1374000" />
+      <workItem from="1522746627166" duration="599000" />
+      <workItem from="1522804545580" duration="2809000" />
+      <workItem from="1522832286704" duration="13000" />
+      <workItem from="1523150345023" duration="2122000" />
+      <workItem from="1523324393793" duration="4439000" />
+      <workItem from="1523601029529" duration="634000" />
+      <workItem from="1523871891569" duration="1000" />
+      <workItem from="1524110513691" duration="168000" />
+      <workItem from="1524815884405" duration="4000" />
+      <workItem from="1525252859074" duration="2000" />
+      <workItem from="1526263479231" duration="129000" />
+      <workItem from="1526460804175" duration="4000" />
+      <workItem from="1540860788883" duration="1554000" />
+      <workItem from="1541332112637" duration="7823000" />
+      <workItem from="1541407287854" duration="6011000" />
+      <workItem from="1541427994596" duration="1931000" />
+      <workItem from="1541466347725" duration="1028000" />
+      <workItem from="1541469364400" duration="28050000" />
+      <workItem from="1541510323131" duration="48000" />
+      <workItem from="1541552045764" duration="28591000" />
+      <workItem from="1541638995852" duration="33112000" />
+      <workItem from="1541725155972" duration="32702000" />
+      <workItem from="1541811668857" duration="20374000" />
+      <workItem from="1541984006171" duration="38878000" />
+      <workItem from="1542073754462" duration="12783000" />
+      <workItem from="1542157129735" duration="5980000" />
+      <workItem from="1542243805868" duration="391000" />
+      <workItem from="1542250897310" duration="5143000" />
+      <workItem from="1542336265553" duration="956000" />
+      <workItem from="1542337810161" duration="589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="464687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="652" y="14" width="1211" height="1002" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22757848" sideWeight="0.5364017" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaCheck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49570817" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847533" sideWeight="0.48387095" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2043379" sideWeight="0.49785408" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21924686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757848" sideWeight="0.46359834" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18150684" sideWeight="0.49785408" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21860987" sideWeight="0.49014336" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="180" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/View/LoginWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="88" column="40" lean-forward="true" selection-start-line="88" selection-start-column="40" selection-end-line="88" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="file://$PROJECT_DIR$/Global/WindowManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="lua-dummy://root/event" />
+    <entry file="file://$PROJECT_DIR$/Global/PlayerCache.lua.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/RoleCfg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global/Component.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="lua-dummy://root/UnityEngine/Vector3" />
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/EmmyLua/classes/debugger/Emmy.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/RoleWnd.lua.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/DungeonCfg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/MallCfg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/XmlParser.lua.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global/ConfigManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handler/RoleHandler.lua.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Network.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Main.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/LuaClass.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/InputControl.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scene/MainScene.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scene/Battle.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/define.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/functions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/msgid.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/protocal.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/XmlParser.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/xmlTest.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/MailWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handler/RoleHandler.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="37" column="35" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global/Game.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handler/BagHandler.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global/PlayerCache.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/BattleWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/ItemCfg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handler/AccountHandler.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handler/MallHandler.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/BagWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4018">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/MessageBox.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/MallWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1552">
+          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/MainWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/RoleWnd.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Lua</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lua</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

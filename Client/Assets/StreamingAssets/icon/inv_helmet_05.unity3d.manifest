@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 357498267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c313b2c2083740b420b7b268ea9cc133
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icon/INV_Helmet_05.png
+Dependencies: []

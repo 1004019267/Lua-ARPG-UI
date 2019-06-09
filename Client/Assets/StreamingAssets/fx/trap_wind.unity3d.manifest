@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 799619518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8489711a2b6160aaa3ef9fc299dee80c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c1518dbca244f6c518ea755a910932
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c43867344483c84eac4bcc4640e71bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/FX/trap_wind.prefab
+Dependencies: []

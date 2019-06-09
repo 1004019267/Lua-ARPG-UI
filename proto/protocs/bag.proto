@@ -1,0 +1,18 @@
+import "common.proto";
+
+// 获取物品信息请求
+message ReqWear
+{
+  required int32      itemId            =1;
+  required int32      attrType          =2;
+  required int32      attrValue         =3;
+  required int32      id                =4;
+  required int32      equipType         =5;
+} 
+
+message RspWear
+{
+	required int32      itemId            =1;
+	required int32      atk               =2;
+	required int32      def               =3;
+}

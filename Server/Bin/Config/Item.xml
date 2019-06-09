@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by nAcer (Stu) -->
+<Nodes>
+	<Node ID="1101" ItemType="1" EquipType="0" Name="火之高兴" Icon="INV_Helmet_01" AttrType="2" AttrValue="20"/>
+	<Node ID="1102" ItemType="1" EquipType="0" Name="雪之哀霜" Icon="INV_Helmet_02" AttrType="2" AttrValue="30"/>
+	<Node ID="1103" ItemType="1" EquipType="0" Name="绿之忧郁" Icon="INV_Helmet_03" AttrType="2" AttrValue="40"/>
+	
+	<Node ID="1201" ItemType="1" EquipType="1" Name="蓝晶石" Icon="INV_Shoulder_01" AttrType="1" AttrValue="30"/>
+	<Node ID="1202" ItemType="1" EquipType="1" Name="绿晶石" Icon="INV_Shoulder_02" AttrType="1" AttrValue="40"/>
+	<Node ID="1203" ItemType="1" EquipType="1" Name="红晶石" Icon="INV_Shoulder_03" AttrType="1" AttrValue="50"/>
+	
+	<Node ID="1301" ItemType="1" EquipType="2" Name="龙珠1" Icon="INV_Chest_Chain" AttrType="2" AttrValue="50"/>
+	<Node ID="1302" ItemType="1" EquipType="2" Name="龙珠2" Icon="INV_Chest_Chain_03" AttrType="2" AttrValue="60"/>
+	<Node ID="1303" ItemType="1" EquipType="2" Name="龙珠3" Icon="INV_Chest_Chain_04" AttrType="2" AttrValue="70"/>
+	<Node ID="1304" ItemType="1" EquipType="2" Name="龙珠4" Icon="INV_Chest_Chain_05" AttrType="2" AttrValue="80"/>
+</Nodes>
+  

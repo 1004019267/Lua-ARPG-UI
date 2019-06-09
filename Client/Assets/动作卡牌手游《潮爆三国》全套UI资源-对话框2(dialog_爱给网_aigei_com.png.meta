@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 34b00b49c0b63ca4c8193645034ab151
+timeCreated: 1542158134
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_31"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 477
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 464
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 466
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 460
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 473
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 50
+        width: 5
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 44
+        width: 24
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 368
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 392
+        width: 252
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 438
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 396
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 396
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 102
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 355
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 355
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 355
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 355
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 355
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 310
+        width: 157
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 313
+        width: 152
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 314
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 261
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 251
+        width: 197
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 184
+        width: 159
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 194
+        width: 288
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 348
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 129
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u52A8\u4F5C\u5361\u724C\u624B\u6E38\u300A\u6F6E\u7206\u4E09\u56FD\u300B\u5168\u5957UI\u8D44\u6E90-\u5BF9\u8BDD\u68462(dialog_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

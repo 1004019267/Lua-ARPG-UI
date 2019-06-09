@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (libprotobuf-lite.vcxproj, libprotoc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  wire_format_lite.cc
+  wire_format.cc
+  unknown_field_set.cc
+  text_format.cc
+  substitute.cc
+  strutil.cc
+  structurally_valid.cc
+  once.cc
+  common.cc
+  service.cc
+  repeated_field.cc
+  reflection_ops.cc
+  message_lite.cc
+  message.cc
+  zero_copy_stream_impl_lite.cc
+  zero_copy_stream_impl.cc
+  zero_copy_stream.cc
+  tokenizer.cc
+  printer.cc
+  gzip_stream.cc
+  正在生成代码...
+  正在编译...
+  coded_stream.cc
+  generated_message_util.cc
+  generated_message_reflection.cc
+  extension_set_heavy.cc
+  extension_set.cc
+  dynamic_message.cc
+  descriptor_database.cc
+  descriptor.pb.cc
+  descriptor.cc
+  parser.cc
+  importer.cc
+  正在生成代码...
+  libprotobuf.vcxproj -> E:\Lua\LuaArpg\protobuf-2.4.1\vsprojects\Debug\libprotobuf.lib

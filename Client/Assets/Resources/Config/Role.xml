@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by nAcer (Stu) -->
+<Nodes>
+	<Node ID="1001" RoleName="草夫" RoleType="1" Hp="800" Atk="60" Def="30" Money="0"/>
+	<Node ID="1002" RoleName="大贤者" RoleType="1" Hp="600" Atk="80" Def="10" Money="1000"/>
+	<Node ID="1003" RoleName="魅魔" RoleType="1" Hp="500" Atk="90" Def="15" Money="800"/>
+	<Node ID="1004" RoleName="陆青" RoleType="1" Hp="600" Atk="70" Def="20" Money="700"/>
+	<Node ID="1005" RoleName="清雅" RoleType="1" Hp="500" Atk="90" Def="10" Money="1200"/>
+	<Node ID="1006" RoleName="孟磊" RoleType="1" Hp="1000" Atk="50" Def="30" Money="20"/>
+  <Node ID="1007" RoleName="买买提" RoleType="1" Hp="700" Atk="65" Def="20" Money="1500"/>
+  <Node ID="1008" RoleName="极·清雅" RoleType="1" Hp="600" Atk="100" Def="20" Money="2000"/>
+</Nodes>

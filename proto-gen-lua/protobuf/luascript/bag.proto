@@ -1,0 +1,11 @@
+import "common.proto";
+
+// 获取物品信息请求
+message ReqGetItemInfo
+{
+}
+
+message RspGetItemInfo
+{
+	repeated common.InventoryDTO invs 	= 1;
+}

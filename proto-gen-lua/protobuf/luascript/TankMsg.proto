@@ -1,0 +1,208 @@
+
+message TipsError
+{
+	required int32 code       =1;
+}
+message Vector_3
+{
+	required float x            =1;
+	required float y            =2;
+	required float z            =3;
+}
+
+//颜色类
+message Color
+{
+    required float r=1;
+	required float g=2;
+	required float b=3;
+}
+
+message TankDTO
+{
+	required string id 			= 1;
+	required int32 hp			= 2;
+	required Vector_3 pos	    = 3;
+	required Color color        = 4;   
+	required int32 team         =5;
+	required string nickName    =6;
+}
+message ReqRegister
+{
+	required string account   =1;
+	required string pwd       =2;
+	required string nickname  =3;
+}
+
+message RspRegister
+{
+	required string account   =1;
+	required string pwd       =2;
+	required string nickname  =3;
+}
+
+
+message ReqLogin
+{
+	required string account   =1;
+	required string pwd       =2;
+}
+
+message ItemDTO
+{
+	required int32 id        =1;
+    required string account  =2;
+    required int32 itemid    =3;
+    required int32 count     =4;
+    required int32 slot      =5;
+}
+
+message EquipDTO
+{
+	required int32 id        =1;
+    required string account  =2;
+    required int32 tank       =3;
+    required int32 bullet     =4;      
+}
+
+message RspLogin
+{
+	required string account   =1;	
+	required string pwd       =2;
+	required string nickname  =3;
+    required int32  diamond   =4;
+	repeated ItemDTO  items   =5;
+	required EquipDTO equip   =6;
+
+}
+//请求购买物品
+message ReqBuy
+{
+	required int32 itemid     =1;
+}
+
+message RspBuy
+{
+	required ItemDTO item    =1;
+	required int32   diamond =2;
+}
+//请求使用坦克
+message ReqUseTank
+{
+	required int32 itemid     =1;
+}
+
+message RspUseTank
+{
+	required int32 itemid     =1;
+}
+//请求使用子弹
+message ReqUseBullet
+{
+	required int32 itemid     =1;
+}
+
+message RspUseBullet
+{
+	required int32 itemid     =1;
+}
+
+
+//请求进入房间
+message ReqEnterRoom
+{
+	required int32 battleType  =1;
+	required int32 limitNumber =2;
+}
+//进入房间应答
+message RspEnterRoom
+{
+	required int32 roomid      =1;
+}
+//通知战斗开始
+message NotifyBattleStart
+{
+	required int32 battleid    =1;
+	required int32 battleType  =2;
+	required int32 numberLimit =3;
+	repeated TankDTO tanks     =4; 
+}
+//坦克击杀信息
+message TankKillData
+{
+	required string account    =1;
+	required int32 kill        =2;
+	required int32 hurt        =3;
+	required int32 deathCount  =4;
+	required int32 order       =5;
+	required int32 team        =6;
+}
+//通知战斗结束
+message NotifyBattleEnd
+{
+	required TankKillData  data=1;  
+}
+//通知竞技场结束
+message NotifyArenaEnd
+{
+	repeated TankKillData datas =1;
+	required int32 redKillCount   =2;
+	required int32 blueKillCount  =3;
+	required int32 winteam       =4;
+}
+
+//通知重生
+message NotifyReborn
+{	  
+	required TankDTO tank     =1;  
+}
+//离线通知
+message NotifyOffline
+{
+	required string id          =1;
+}
+//请求移动
+message ReqMove
+{
+	required Vector_3 pos      =1;
+	required Vector_3 rot      =2;
+}
+//通知移动
+message NotifyMove
+{
+    required string id          =1;
+	required Vector_3 pos      =2;
+	required Vector_3 rot      =3;
+}
+//请求开火
+message ReqFire
+{
+	required Vector_3 pos      =1;
+	required Vector_3 rot      =2;
+}
+//通知移动
+message NotifyFire
+{
+	required string id          =1;
+	required Vector_3 pos      =2;
+	required Vector_3 rot      =3;
+}
+//请求命中
+message ReqHit
+{
+	required string enemy       =1; //命中的人
+	required Vector_3 bulletPos =2;//炮弹的坐标   
+}
+//通知命中
+message NotifyHit
+{
+	required string id          =1;//命中得人 
+	required int32 damage      =2;//伤害
+}
+
+//通知死亡
+message NotifyDeath
+{
+	required string id         =1;
+	required TankKillData  data=2;  
+}

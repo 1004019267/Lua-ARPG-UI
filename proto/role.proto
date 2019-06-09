@@ -1,0 +1,30 @@
+import "common.proto";
+
+// 获取物品信息请求
+message ReqBuyRole
+{
+ 	required int32      id                =1;	
+	required int32      roleId            =2; 
+} 
+
+message RspBuyRole
+{
+	required int32      roleId            =1;
+	required int32      lastGold          =2;
+	required uint32     msgtips		      =3;
+}
+
+message ReqSetRole
+{
+    required int32      id                =1;
+	required int32      roleId            =2;
+}
+
+message RspSetRole
+{
+	required int32      roleId            =1;	
+	required string     roleName          =2;
+	required int32      atk               =3;
+	required int32      def               =4;
+	required int32      Hp                =5;
+}

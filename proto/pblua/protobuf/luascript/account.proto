@@ -1,0 +1,49 @@
+package account;
+
+message ReqRegister
+{
+	required string	account		= 1;
+	required string password	= 2;
+}
+
+message RespRegister
+{
+	required uint32 msgtips		= 1;
+}
+
+message ReqLogin
+{
+	required string account		= 1;
+	required string password 	= 2;
+}
+
+message RespLogin
+{
+	required string account 	= 1;
+	required uint32 msgtips		= 2;
+	required int32  gold        = 3;
+	required int32  diamond     = 4;
+	required int32  id          = 5;
+	required int32  roleId      = 6;
+	required int32      atk     = 7;
+	required int32      def     = 8;
+	required int32      Hp      = 9;
+
+	required int32     addAtk  =10;
+	required int32     addDef   =11;
+	required int32     head   =12;
+	required int32     arm    =13;
+	required int32     chest   =14;
+
+	repeated int32     roleHave  =15;
+}
+
+message ReqOffline
+{
+	
+}
+
+message RespOffline
+{
+	required uint32 msgtips		= 1;
+}

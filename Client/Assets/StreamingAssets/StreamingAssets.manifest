@@ -1,0 +1,480 @@
+ManifestFileVersion: 0
+CRC: 2935007188
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: units/c1001.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: units/c1002.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: units/c1003.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: units/c1004.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: units/c1005.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: units/c1006.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: units/c1007.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: units/c1008.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: units/camera.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: units/m1001.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: ui/arenawnd.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: ui/bagwnd.unity3d
+      Dependencies:
+        Dependency_0: icon/inv_belt_05.unity3d
+        Dependency_1: render/texc1001.unity3d
+    Info_12:
+      Name: ui/battlewnd.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: ui/bloodtext.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: ui/buytypewnd.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: ui/createrolewnd.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: ui/floatingbar.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: ui/goldinfo.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: ui/goodswnd.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: ui/inventoryequipwnd.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: ui/inventorywnd.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: ui/loadingwnd.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: ui/loginwnd.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: ui/mailcontentwnd.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: ui/mailwnd.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: ui/mainwnd.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: ui/mallwnd.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: ui/messagebox.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: ui/messagepanel.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: ui/promptitem.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: ui/promptpanel.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: ui/rolewnd.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: ui/selectdungeonwnd.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: ui/selectlevelwnd.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: ui/selectrolewnd.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: ui/storewnd.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: config/bornpoint.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: config/dungeon.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: config/item.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: config/mall.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: config/msgtips.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: config/role.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: config/skillaoe.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: config/skillbasic.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: config/skillbuff.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: config/skillbullet.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: config/skillgroup.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: config/skilltrap.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: config/transport.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: fx/aoe_arcane.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: fx/aoe_arcane2.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: fx/aoe_dirty.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: fx/aoe_down.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: fx/aoe_fire.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: fx/aoe_fire2.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: fx/aoe_fire_rect.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: fx/aoe_ground.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: fx/aoe_ground_rect.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: fx/aoe_ice.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: fx/aoe_ice2.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: fx/aoe_ice_fan.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: fx/aoe_ice_rect.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: fx/aoe_light.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: fx/buff_defend.unity3d
+      Dependencies: {}
+    Info_64:
+      Name: fx/buff_magic.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: fx/buff_recover.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: fx/bullet_blue.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: fx/bullet_boomrang.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: fx/bullet_fire.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: fx/bullet_green.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: fx/bullet_ice.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: fx/bullet_ice2.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: fx/bullet_ice_ult.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: fx/bullet_orange.unity3d
+      Dependencies: {}
+    Info_74:
+      Name: fx/bullet_red.unity3d
+      Dependencies: {}
+    Info_75:
+      Name: fx/bullet_sky.unity3d
+      Dependencies: {}
+    Info_76:
+      Name: fx/bullet_yellow.unity3d
+      Dependencies: {}
+    Info_77:
+      Name: fx/melee_1.unity3d
+      Dependencies: {}
+    Info_78:
+      Name: fx/trap_blood.unity3d
+      Dependencies: {}
+    Info_79:
+      Name: fx/trap_evil.unity3d
+      Dependencies: {}
+    Info_80:
+      Name: fx/trap_holy.unity3d
+      Dependencies: {}
+    Info_81:
+      Name: fx/trap_magic.unity3d
+      Dependencies: {}
+    Info_82:
+      Name: fx/trap_snow.unity3d
+      Dependencies: {}
+    Info_83:
+      Name: fx/trap_water.unity3d
+      Dependencies: {}
+    Info_84:
+      Name: fx/trap_wind.unity3d
+      Dependencies: {}
+    Info_85:
+      Name: fx/vortex 1.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: fx/vortex.unity3d
+      Dependencies: {}
+    Info_87:
+      Name: fx/wave.unity3d
+      Dependencies: {}
+    Info_88:
+      Name: fx/zhongxin.unity3d
+      Dependencies: {}
+    Info_89:
+      Name: fx/zhuoshao.unity3d
+      Dependencies: {}
+    Info_90:
+      Name: icon/inv_belt_01.unity3d
+      Dependencies: {}
+    Info_91:
+      Name: icon/inv_belt_02.unity3d
+      Dependencies: {}
+    Info_92:
+      Name: icon/inv_belt_03.unity3d
+      Dependencies: {}
+    Info_93:
+      Name: icon/inv_belt_04.unity3d
+      Dependencies: {}
+    Info_94:
+      Name: icon/inv_belt_05.unity3d
+      Dependencies: {}
+    Info_95:
+      Name: icon/inv_belt_06.unity3d
+      Dependencies: {}
+    Info_96:
+      Name: icon/inv_belt_07.unity3d
+      Dependencies: {}
+    Info_97:
+      Name: icon/inv_belt_08.unity3d
+      Dependencies: {}
+    Info_98:
+      Name: icon/inv_belt_09.unity3d
+      Dependencies: {}
+    Info_99:
+      Name: icon/inv_belt_10.unity3d
+      Dependencies: {}
+    Info_100:
+      Name: icon/inv_boots_01.unity3d
+      Dependencies: {}
+    Info_101:
+      Name: icon/inv_boots_02.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: icon/inv_boots_03.unity3d
+      Dependencies: {}
+    Info_103:
+      Name: icon/inv_boots_04.unity3d
+      Dependencies: {}
+    Info_104:
+      Name: icon/inv_boots_05.unity3d
+      Dependencies: {}
+    Info_105:
+      Name: icon/inv_boots_06.unity3d
+      Dependencies: {}
+    Info_106:
+      Name: icon/inv_boots_07.unity3d
+      Dependencies: {}
+    Info_107:
+      Name: icon/inv_boots_08.unity3d
+      Dependencies: {}
+    Info_108:
+      Name: icon/inv_boots_09.unity3d
+      Dependencies: {}
+    Info_109:
+      Name: icon/inv_boots_chain_01.unity3d
+      Dependencies: {}
+    Info_110:
+      Name: icon/inv_chest_chain.unity3d
+      Dependencies: {}
+    Info_111:
+      Name: icon/inv_chest_chain_03.unity3d
+      Dependencies: {}
+    Info_112:
+      Name: icon/inv_chest_chain_04.unity3d
+      Dependencies: {}
+    Info_113:
+      Name: icon/inv_chest_chain_05.unity3d
+      Dependencies: {}
+    Info_114:
+      Name: icon/inv_chest_chain_06.unity3d
+      Dependencies: {}
+    Info_115:
+      Name: icon/inv_chest_chain_07.unity3d
+      Dependencies: {}
+    Info_116:
+      Name: icon/inv_chest_chain_08.unity3d
+      Dependencies: {}
+    Info_117:
+      Name: icon/inv_chest_chain_09.unity3d
+      Dependencies: {}
+    Info_118:
+      Name: icon/inv_chest_chain_10.unity3d
+      Dependencies: {}
+    Info_119:
+      Name: icon/inv_chest_chain_11.unity3d
+      Dependencies: {}
+    Info_120:
+      Name: icon/inv_helmet_01.unity3d
+      Dependencies: {}
+    Info_121:
+      Name: icon/inv_helmet_02.unity3d
+      Dependencies: {}
+    Info_122:
+      Name: icon/inv_helmet_03.unity3d
+      Dependencies: {}
+    Info_123:
+      Name: icon/inv_helmet_04.unity3d
+      Dependencies: {}
+    Info_124:
+      Name: icon/inv_helmet_05.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: icon/inv_helmet_06.unity3d
+      Dependencies: {}
+    Info_126:
+      Name: icon/inv_helmet_07.unity3d
+      Dependencies: {}
+    Info_127:
+      Name: icon/inv_helmet_08.unity3d
+      Dependencies: {}
+    Info_128:
+      Name: icon/inv_helmet_09.unity3d
+      Dependencies: {}
+    Info_129:
+      Name: icon/inv_helmet_10.unity3d
+      Dependencies: {}
+    Info_130:
+      Name: icon/inv_pant_challengedruid_d_01.unity3d
+      Dependencies: {}
+    Info_131:
+      Name: icon/inv_pant_cloth_challengemage_d_01.unity3d
+      Dependencies: {}
+    Info_132:
+      Name: icon/inv_pant_cloth_raidpriest_i_01.unity3d
+      Dependencies: {}
+    Info_133:
+      Name: icon/inv_pant_cloth_raidpriest_l_01.unity3d
+      Dependencies: {}
+    Info_134:
+      Name: icon/inv_pant_leather_panprog_b_01.unity3d
+      Dependencies: {}
+    Info_135:
+      Name: icon/inv_pant_leather_pvpdruid_c_02.unity3d
+      Dependencies: {}
+    Info_136:
+      Name: icon/inv_pant_leather_pvpdruid_e_01.unity3d
+      Dependencies: {}
+    Info_137:
+      Name: icon/inv_pant_leather_raiddruid_k_01.unity3d
+      Dependencies: {}
+    Info_138:
+      Name: icon/inv_pant_leather_raidmonk_l_01.unity3d
+      Dependencies: {}
+    Info_139:
+      Name: icon/inv_pant_leather_reputation_c_01.unity3d
+      Dependencies: {}
+    Info_140:
+      Name: icon/inv_shoulder_01.unity3d
+      Dependencies: {}
+    Info_141:
+      Name: icon/inv_shoulder_02.unity3d
+      Dependencies: {}
+    Info_142:
+      Name: icon/inv_shoulder_03.unity3d
+      Dependencies: {}
+    Info_143:
+      Name: icon/inv_shoulder_04.unity3d
+      Dependencies: {}
+    Info_144:
+      Name: icon/inv_shoulder_05.unity3d
+      Dependencies: {}
+    Info_145:
+      Name: icon/inv_shoulder_06.unity3d
+      Dependencies: {}
+    Info_146:
+      Name: icon/inv_shoulder_07.unity3d
+      Dependencies: {}
+    Info_147:
+      Name: icon/inv_shoulder_08.unity3d
+      Dependencies: {}
+    Info_148:
+      Name: icon/inv_shoulder_09.unity3d
+      Dependencies: {}
+    Info_149:
+      Name: icon/inv_shoulder_10.unity3d
+      Dependencies: {}
+    Info_150:
+      Name: render/texc1001.unity3d
+      Dependencies: {}
+    Info_151:
+      Name: render/texc1002.unity3d
+      Dependencies: {}
+    Info_152:
+      Name: render/texc1003.unity3d
+      Dependencies: {}
+    Info_153:
+      Name: render/texc1004.unity3d
+      Dependencies: {}
+    Info_154:
+      Name: render/texc1005.unity3d
+      Dependencies: {}
+    Info_155:
+      Name: render/texc1006.unity3d
+      Dependencies: {}
+    Info_156:
+      Name: render/texc1007.unity3d
+      Dependencies: {}
+    Info_157:
+      Name: render/texc1008.unity3d
+      Dependencies: {}

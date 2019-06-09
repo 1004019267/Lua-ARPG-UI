@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1692576748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aac4117fa9468214f69ef7782a53f4ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29f2187dc9a0e82d4e2462f2d1f99c1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c43867344483c84eac4bcc4640e71bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/FX/trap_water.prefab
+Dependencies: []

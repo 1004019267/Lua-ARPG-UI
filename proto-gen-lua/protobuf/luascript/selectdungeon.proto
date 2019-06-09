@@ -1,0 +1,23 @@
+
+// 选择副本请求
+message ReqSelectDungeon
+{
+	required int32 dungeonid		= 1;
+}
+
+// 选择副本应答
+message RspSelectDungeon
+{
+	required int32 dungeonid		= 1;
+}
+
+// 退出副本请求
+message ReqLeaveDungeon
+{
+	required int32 dungeonid		= 1;
+}
+// 退出副本应答
+message RspLeveaDungeon
+{
+	required int32 dungeonid		= 1;	
+}

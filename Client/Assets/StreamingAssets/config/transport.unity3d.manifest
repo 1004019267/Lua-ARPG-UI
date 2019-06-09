@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 262647700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e537474718c17d98f308e2e0d2287e37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Config/Transport.xml
+Dependencies: []

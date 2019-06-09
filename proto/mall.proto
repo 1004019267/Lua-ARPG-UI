@@ -1,0 +1,15 @@
+import "common.proto";
+
+message ReqBuy
+{   
+	required int32      id                =1;
+	required int32      itemId            =4; 
+}
+
+message RspBuy
+{	
+	required int32      lastGold              =1;
+	required int32      lastDiamond           =2;
+	required uint32     msgtips		          =3;
+	required int32      itemId                =4;
+}
